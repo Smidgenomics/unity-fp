@@ -1,0 +1,21 @@
+{
+  "name": "com.smidgenomics.unity-fp",
+  "version": "0.1.0",
+  "displayName": "SM First Person",
+  "description": "First person controller",
+  "license": "NON-AI-MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smidgenomics/unity-fp.git"
+  },
+  "author": {
+    "name": "Smidgenomics",
+    "url": "https://github.com/Smidgenomics"
+  },
+  "unity": "2022.3",
+  "unityRelease": "62f2",
+  "keywords": [],
+  "documentationUrl": "https://github.com/Smidgenomics/unity-fp",
+  "licensesUrl": "https://github.com/Smidgenomics/unity-fp/blob/master/LICENSE.md",
+  "changelogUrl": "https://github.com/Smidgenomics/unity-fp/blob/master/CHANGELOG.md"
+}
